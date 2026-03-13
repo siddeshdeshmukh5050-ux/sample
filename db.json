@@ -1,0 +1,29 @@
+{
+  "students": [
+    {"id":1,"name":"Aarav Sharma","age":20,"city":"Mumbai","course":"Computer Science"},
+  {"id":2,"name":"Vivaan Patel","age":21,"city":"Ahmedabad","course":"Mechanical"},
+  {"id":3,"name":"Aditya Singh","age":22,"city":"Delhi","course":"Civil"},
+  {"id":4,"name":"Arjun Kumar","age":19,"city":"Patna","course":"Electronics"},
+  {"id":5,"name":"Sai Reddy","age":23,"city":"Hyderabad","course":"IT"},
+  {"id":6,"name":"Krishna Nair","age":20,"city":"Kochi","course":"Computer Science"},
+  {"id":7,"name":"Rohan Das","age":21,"city":"Kolkata","course":"Mathematics"},
+  {"id":8,"name":"Rahul Yadav","age":22,"city":"Lucknow","course":"Physics"},
+  {"id":9,"name":"Karan Mehta","age":20,"city":"Pune","course":"Data Science"},
+  {"id":10,"name":"Manish Gupta","age":24,"city":"Jaipur","course":"MBA"},
+  {"id":11,"name":"Ankit Verma","age":23,"city":"Kanpur","course":"Commerce"},
+  {"id":12,"name":"Suresh Iyer","age":22,"city":"Chennai","course":"Statistics"},
+  {"id":13,"name":"Deepak Mishra","age":21,"city":"Varanasi","course":"Economics"},
+  {"id":14,"name":"Nikhil Jain","age":20,"city":"Indore","course":"Finance"},
+  {"id":15,"name":"Ravi Shukla","age":24,"city":"Bhopal","course":"Political Science"},
+  {"id":16,"name":"Aman Khan","age":19,"city":"Bhopal","course":"History"},
+  {"id":17,"name":"Yash Agarwal","age":21,"city":"Agra","course":"Computer Science"},
+  {"id":18,"name":"Harsh Pandey","age":22,"city":"Allahabad","course":"Law"},
+  {"id":19,"name":"Sumit Choudhary","age":23,"city":"Chandigarh","course":"Engineering"},
+  {"id":20,"name":"Abhishek Roy","age":20,"city":"Ranchi","course":"Data Analytics"},
+  {"id":21,"name":"Vikas Sharma","age":22,"city":"Shimla","course":"Tourism"},
+  {"id":22,"name":"Prakash Kulkarni","age":21,"city":"Nagpur","course":"Computer Science"},
+  {"id":23,"name":"Gaurav Saxena","age":24,"city":"Noida","course":"Business"},
+  {"id":24,"name":"Tarun Bansal","age":23,"city":"Gurgaon","course":"Marketing"},
+  {"id":25,"name":"Sanjay Tiwari","age":22,"city":"Raipur","course":"Agriculture"}
+  ]
+}
