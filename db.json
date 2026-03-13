@@ -1,0 +1,7 @@
+{
+  "students": [
+    {"id":1,"name":"Aarav Sharma","age":20,"city":"Mumbai","course":"CS"},
+    {"id":2,"name":"Vivaan Patel","age":21,"city":"Ahmedabad","course":"IT"},
+    {"id":3,"name":"Aditya Singh","age":22,"city":"Delhi","course":"Civil"}
+  ]
+}
